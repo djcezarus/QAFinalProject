@@ -53,6 +53,7 @@ Log in using :
 * Username
 * Password
 
+
 If the any of the fields are empty or are not coresponding with the data in the database an error message is beeing generated and returns the login page back to the user.
 
 * Update any user 
