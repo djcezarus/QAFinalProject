@@ -26,6 +26,8 @@ covered during our training and to expand the knowledge of JAVA and of functions
 
 * Programming Language (Java)
 
+* Programming Language for UI (CSS,JS)
+
 * API Development (Spring Boot)
 
 * We used Maven for a uniform build system
