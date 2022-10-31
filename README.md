@@ -47,6 +47,8 @@ Create an account user by introducing the following fields:
 * First Name
 * Last Name 
 * Email
+
+
 If any of the fields are empty an error message is beeing generated and return the registration page back to the user.
 
 Log in using :
