@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40911790-8c79-4c2a-942f-928f96c181f5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/controller/MasterModuleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/controller/MasterModuleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/java/com/cohart/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/masterModule.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/masterModule.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/masterUserPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/masterUserPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/registrationPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/registrationPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/welcomePage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce-app/src/main/webapp/views/welcomePage.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ecommerce-app" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GlhpI6z9MLsfu5HNxis0bTRTcv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/djcez/eclipse-workspace/ecommerce-app&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40911790-8c79-4c2a-942f-928f96c181f5" name="Changes" comment="" />
+      <created>1666969258552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666969258552</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
