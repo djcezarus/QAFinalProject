@@ -37,33 +37,6 @@ covered during our training and to expand the knowledge of JAVA and of functions
 * API Calls using Postman
 
 
-
-## How I expected the challenge to go.
-
-I expected the challenge to be difficult due to short time constraints however managed to add some good functionality to the Shopping API and gained a good understanding of layered archetecture. 
-
-
-## What went well? / What didn't go as planned?
-
-The functionality of the application went well, I was able to successfully include login and registration functionality. On top of this I was able to implement a basic shopping application where user can buy items and the purchases would correctly amend the databases and return updated product and user data. I was able to successfully produce diffeent APIs depending on whether the user logged in was an admin or normal user. 
-
-I never got to successfully implement the system integratin tests and j-unit testing of the application due to time constraints and would have liked to add more functionality and better styling to the web application. I ran into a problem trying to update the stock count using html form fields so had to result to adding to the stock count one at a time.
-
-## Possible improvements for future revisions of the project.
-The future improvement for this Shopping API will be to include testing and achieve over 90% coverage. I would also like to include more functionality such as topping up account balance and also creating entity relationships to the accounts and add an orders section.
-
-## Database
-<details>
-<summary> User Database Structure </summary>
-  
-![](https://github.com/AliG-123/MyProjectShoppingApp/blob/main/Final%20Project%20Shopping%20App/UserDatabaseStructure.png?raw=true)
-</details>
- 
-<details>
-<summary> Product Database Structure </summary>
-  
-![](https://github.com/AliG-123/MyProjectShoppingApp/blob/main/Final%20Project%20Shopping%20App/ProductDatabaseStructure.png?raw=true)
-</details>
  
   
 ## Methods available in API
